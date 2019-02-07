@@ -1,0 +1,13 @@
+0	Pclass	q
+1	Sex	q
+2	Age	q
+3	SibSp	q
+4	Parch	q
+5	Fare	q
+6	Embarked	q
+7	IsFamily	q
+8	isPclass1	q
+9	isPclass2	q
+10	isEmbarkedS	q
+11	isEmbarkedC	q
+12	isEmbarkedQ	q
